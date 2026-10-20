@@ -1,0 +1,19 @@
+# R session and workspace data
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+
+# Large redundant compressed archives
+Datasets/archive.zip
+
+# Microsoft Office temporary lock files
+~$*
+*.tmp
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+Rplots.pdf
